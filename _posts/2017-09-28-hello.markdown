@@ -1,0 +1,11 @@
+---
+title:  "Hello!"
+subtitle: "My first post"
+author: "Catalina C-S"
+avatar: "img/authors/wferr.png"
+image: "img/2017-09-28-hello.jpg"
+date:   2017-09-28 18:52:07
+---
+
+### Hello!
+My Instagram started off as solely about food but then it morphed into more because I starting noticing a trend that the majority of other female (women) foodies who show their faces in pictures are thin and conventionally attractive. And I have yet to find too many Latina foodies on Instagram, and the number goes down for Latinas who show their faces. This also made me realize that growing up I didn’t see images of Latinas being “silly” with food or having a positive relationship to it. In short, I’m just trying to find some tasty food and take fun pictures with the hope of adding some diversity to the foodie community.
