@@ -3,7 +3,7 @@ title:  "Hello!"
 subtitle: "My first post"
 author: "Catalina C-S"
 avatar: "img/authors/wferr.png"
-image: "img/2017-09-28-hello.jpg"
+image: "img/2017-09-28-hello2.jpg"
 date:   2017-09-28 18:52:07
 ---
 
